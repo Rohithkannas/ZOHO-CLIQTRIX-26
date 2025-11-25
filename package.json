@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "zcatalyst-sdk-node": "^3.1.0"
+  }
+}

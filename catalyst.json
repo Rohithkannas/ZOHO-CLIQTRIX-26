@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "keyring_api"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
