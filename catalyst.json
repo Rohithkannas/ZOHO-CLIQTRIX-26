@@ -1,7 +1,8 @@
 {
   "functions": {
     "targets": [
-      "keyring_api"
+      "keyring_api",
+      "keyring_cron"
     ],
     "ignore": [],
     "source": "functions"

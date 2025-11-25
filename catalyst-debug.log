@@ -1,0 +1,9 @@
+[debug] [2025-11-25T22:11:12.323Z] : 
+[debug] [2025-11-25T22:11:12.336Z] : ----------------------------------------------------------------------
+[debug] [2025-11-25T22:11:12.336Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\ROHITH KANNA S\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js deploy
+[debug] [2025-11-25T22:11:12.336Z] : CLI Version:  1.21.0
+[debug] [2025-11-25T22:11:12.337Z] : Platform:     win32
+[debug] [2025-11-25T22:11:12.337Z] : Node Version: v22.17.1
+[debug] [2025-11-25T22:11:12.337Z] : Time:         Wed Nov 26 2025 03:41:12 GMT+0530 (India Standard Time)
+[debug] [2025-11-25T22:11:12.337Z] : ----------------------------------------------------------------------
+[debug] [2025-11-25T22:11:12.337Z] : 

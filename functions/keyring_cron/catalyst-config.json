@@ -1,0 +1,7 @@
+{
+    "type": "cron",
+    "runtime": "nodejs20.0",
+    "deployment": {
+        "stack": "NodeJS20"
+    }
+}
